@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& arr, int k) {
+        if(k==1) return arr ;
         vector<int> ans ;
         int n = arr.size();
         int ngi[n] ;
@@ -15,11 +16,13 @@ public:
             else ngi[i] = st.top();
             st.push(i); 
         }
+        int j = 0 ;
         for(int i = 0 ;i < n-k+1;i++){
+            if(j<i) j=i;
             int mx = arr[i];
-            int j = i ;
             while(j < i+k){
                 mx = arr[j];
+                if(ngi[j] >= i+k ) break ;
                 j = ngi[j];
             }
             ans.push_back(mx) ;
