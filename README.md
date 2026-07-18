@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0234-palindrome-linked-list) |
 ## Depth-First Search
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Array
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
