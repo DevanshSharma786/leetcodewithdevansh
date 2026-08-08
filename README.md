@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0725-split-linked-list-in-parts) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Two Pointers
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0622-design-circular-queue) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0622-design-circular-queue) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
