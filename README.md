@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0142-linked-list-cycle-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1207-unique-number-of-occurrences) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0226-invert-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
 | ------- |
