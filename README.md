@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0141-linked-list-cycle) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0215-kth-largest-element-in-an-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
