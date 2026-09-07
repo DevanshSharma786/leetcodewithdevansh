@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0234-palindrome-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
 ## Recursion
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0098-validate-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0450-delete-node-in-a-bst](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0450-delete-node-in-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0700-search-in-a-binary-search-tree) |
