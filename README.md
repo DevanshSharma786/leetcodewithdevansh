@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0234-palindrome-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
