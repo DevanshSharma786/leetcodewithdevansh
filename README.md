@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1657-determine-if-two-strings-are-close) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Linked List
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## Monotonic Stack
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1657-determine-if-two-strings-are-close) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Quickselect
 |  |
 | ------- |
