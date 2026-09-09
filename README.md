@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0234-palindrome-linked-list) |
+| [0541-reverse-string-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0257-binary-tree-paths) |
+| [0541-reverse-string-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0541-reverse-string-ii) |
 | [0649-dota2-senate](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0649-dota2-senate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1657-determine-if-two-strings-are-close) |
 ## Greedy
