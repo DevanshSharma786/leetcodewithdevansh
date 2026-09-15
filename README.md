@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0143-reorder-list) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0257-binary-tree-paths) |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0190-reverse-bits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
