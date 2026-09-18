@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0295-find-median-from-data-stream) |
 | [0541-reverse-string-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0973-k-closest-points-to-origin) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0622-design-circular-queue) |
 ## Simulation
 |  |
@@ -352,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0020-valid-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
