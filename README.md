@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1657-determine-if-two-strings-are-close) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0989-add-to-array-form-of-integer) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1046-last-stone-weight) |
