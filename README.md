@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0142-linked-list-cycle-ii) |
+| [0205-isomorphic-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-unique-number-of-occurrences](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1207-unique-number-of-occurrences) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0415-add-strings) |
