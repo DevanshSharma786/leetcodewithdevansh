@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0415-add-strings) |
@@ -389,9 +390,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
