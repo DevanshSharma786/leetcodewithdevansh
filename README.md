@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0088-merge-sorted-array) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0064-minimum-path-sum) |
 | [0509-fibonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -400,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
