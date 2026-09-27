@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0445-add-two-numbers-ii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3174-clear-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3174-clear-digits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0415-add-strings) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3174-clear-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3174-clear-digits) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0649-dota2-senate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1657-determine-if-two-strings-are-close) |
 | [2182-construct-string-with-repeat-limit](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2182-construct-string-with-repeat-limit) |
+| [3174-clear-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
