@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0142-linked-list-cycle-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0198-house-robber) |
@@ -432,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0064-minimum-path-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
