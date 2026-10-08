@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
