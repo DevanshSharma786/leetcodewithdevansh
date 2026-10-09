@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1046-last-stone-weight) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2182-construct-string-with-repeat-limit) |
 ## Merge Sort
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1657-determine-if-two-strings-are-close) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Stack
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0678-valid-parenthesis-string) |
 | [1446-consecutive-characters](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1446-consecutive-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1657-determine-if-two-strings-are-close) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2182-construct-string-with-repeat-limit) |
 | [3174-clear-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3174-clear-digits) |
 ## Greedy
@@ -383,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
