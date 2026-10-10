@@ -467,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0169-majority-element) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
