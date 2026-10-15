@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0445-add-two-numbers-ii) |
