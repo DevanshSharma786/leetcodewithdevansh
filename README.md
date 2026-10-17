@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0678-valid-parenthesis-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2390-removing-stars-from-a-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3174-clear-digits) |
 ## Depth-First Search
 |  |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0415-add-strings) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2390-removing-stars-from-a-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3174-clear-digits) |
 ## Range Minimum/Maximum Query
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1657-determine-if-two-strings-are-close) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2182-construct-string-with-repeat-limit) |
+| [2390-removing-stars-from-a-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
