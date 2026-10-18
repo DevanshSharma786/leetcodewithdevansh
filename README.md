@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2217-find-palindrome-with-fixed-length) |
+| [2951-find-the-peaks](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2951-find-the-peaks) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Monotonic Stack
 |  |
@@ -500,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0133-clone-graph) |
 | [0841-keys-and-rooms](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1791-find-center-of-star-graph) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
