@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2951-find-the-peaks](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2951-find-the-peaks) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
