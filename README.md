@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0128-longest-consecutive-sequence) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0063-unique-paths-ii) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0257-binary-tree-paths) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0733-flood-fill) |
@@ -518,4 +522,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2951-find-the-peaks) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
