@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0844-backspace-string-compare) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0402-remove-k-digits) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Queue
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0541-reverse-string-ii) |
 | [0649-dota2-senate](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0649-dota2-senate) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0881-boats-to-save-people) |
