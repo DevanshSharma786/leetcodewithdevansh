@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1657-determine-if-two-strings-are-close) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2182-construct-string-with-repeat-limit) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2390-removing-stars-from-a-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3174-clear-digits) |
 ## Greedy
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2182-construct-string-with-repeat-limit](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2182-construct-string-with-repeat-limit) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Tree
 |  |
 | ------- |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2951-find-the-peaks](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2951-find-the-peaks) |
 ## Algorithm X
 |  |
