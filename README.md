@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0260-single-number-iii) |
+| [0303-range-sum-query-immutable](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0485-max-consecutive-ones) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0622-design-circular-queue) |
 ## Simulation
 |  |
@@ -539,4 +541,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0037-sudoku-solver) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
