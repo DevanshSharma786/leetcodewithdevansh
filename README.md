@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0989-add-to-array-form-of-integer) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2217-find-palindrome-with-fixed-length) |
+| [2235-add-two-integers](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2235-add-two-integers) |
 ## Geometry
 |  |
 | ------- |
