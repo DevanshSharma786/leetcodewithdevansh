@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2182-construct-string-with-repeat-limit](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2182-construct-string-with-repeat-limit) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2716-minimize-string-length](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2716-minimize-string-length) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2182-construct-string-with-repeat-limit) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2390-removing-stars-from-a-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2390-removing-stars-from-a-string) |
+| [2716-minimize-string-length](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2716-minimize-string-length) |
 | [3174-clear-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
