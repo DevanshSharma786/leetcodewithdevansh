@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0541-reverse-string-ii) |
 | [0649-dota2-senate](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0678-valid-parenthesis-string) |
