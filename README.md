@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0973-k-closest-points-to-origin) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Queue
 |  |
