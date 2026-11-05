@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0049-group-anagrams) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0066-plus-one) |
