@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0088-merge-sorted-array) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0067-add-binary) |
@@ -560,4 +562,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0303-range-sum-query-immutable) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
