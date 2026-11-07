@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2390-removing-stars-from-a-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3174-clear-digits) |
 ## Range Minimum/Maximum Query
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1657-determine-if-two-strings-are-close) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2182-construct-string-with-repeat-limit) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2259-remove-digit-from-number-to-maximize-result) |
