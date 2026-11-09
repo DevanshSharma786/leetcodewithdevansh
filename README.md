@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1657-determine-if-two-strings-are-close) |
+| [1748-sum-of-unique-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2182-construct-string-with-repeat-limit](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2182-construct-string-with-repeat-limit) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1748-sum-of-unique-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1748-sum-of-unique-elements) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1657-determine-if-two-strings-are-close) |
+| [1748-sum-of-unique-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2182-construct-string-with-repeat-limit](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2182-construct-string-with-repeat-limit) |
 ## Quickselect
