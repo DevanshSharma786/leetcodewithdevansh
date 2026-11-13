@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0414-third-maximum-number) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0303-range-sum-query-immutable) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1657-determine-if-two-strings-are-close) |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0229-majority-element-ii) |
 ## Graph Theory
 |  |
 | ------- |
