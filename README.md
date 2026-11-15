@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0098-validate-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0162-find-peak-element) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0258-add-digits) |
@@ -609,4 +611,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0258-add-digits) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
