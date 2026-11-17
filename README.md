@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0303-range-sum-query-immutable) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0344-reverse-string) |
@@ -618,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0069-sqrtx) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
