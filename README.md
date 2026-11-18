@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0973-k-closest-points-to-origin) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
