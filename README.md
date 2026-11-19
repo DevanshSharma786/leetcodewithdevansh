@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0989-add-to-array-form-of-integer) |
+| [1137-n-th-tribonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1137-n-th-tribonacci-number) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2235-add-two-integers](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2235-add-two-integers) |
 ## Geometry
@@ -547,11 +548,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
