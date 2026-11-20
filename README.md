@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2404-most-frequent-even-element) |
 | [2951-find-the-peaks](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2951-find-the-peaks) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3693-climbing-stairs-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3693-climbing-stairs-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1137-n-th-tribonacci-number) |
+| [3693-climbing-stairs-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
