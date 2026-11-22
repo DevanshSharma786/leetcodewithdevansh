@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0260-single-number-iii) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0658-find-k-closest-elements) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
