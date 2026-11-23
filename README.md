@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0678-valid-parenthesis-string) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0397-integer-replacement) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0198-house-robber) |
+| [0397-integer-replacement](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0746-min-cost-climbing-stairs) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
