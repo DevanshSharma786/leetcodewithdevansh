@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0970-powerful-integers](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0970-powerful-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0509-fibonacci-number) |
+| [0970-powerful-integers](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0970-powerful-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1137-n-th-tribonacci-number) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0970-powerful-integers](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0970-powerful-integers) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2951-find-the-peaks](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2951-find-the-peaks) |
 ## Algorithm X
