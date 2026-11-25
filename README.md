@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0541-reverse-string-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/0414-third-maximum-number) |
