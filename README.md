@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/2716-minimize-string-length) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3731-find-missing-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1657-determine-if-two-strings-are-close) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3731-find-missing-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3693-climbing-stairs-ii](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3693-climbing-stairs-ii) |
+| [3731-find-missing-elements](https://github.com/DevanshSharma786/leetcodewithdevansh/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
